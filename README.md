@@ -1,3 +1,5 @@
+Group Memebers: Daniel Wagaye ; Imran Ahmed ; Kebron Teshome ; Kedija Nejmudin ; Michael Aseffa.
+                   "Job Application Platform" 
 The Job Application Platform is a comprehensive Java-based console application developed as a OOP to demonstrate the practical implementation of Object-Oriented Programming concepts.
 File I/O operations, and JDBC database integration. The system provides a complete job application workflow where users can log in, browse engineering job categories, submit applications, and receive confirmation notifications—all while showcasing advanced Java programming techniques.
 Object-Oriented Programming (OOP) Concepts
